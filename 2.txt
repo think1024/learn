@@ -2,3 +2,4 @@ good
 morning
 bad
 evening
+night
