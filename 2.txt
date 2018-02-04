@@ -1,5 +1,5 @@
 good
 morning
-bad
+b
 evening
 night
