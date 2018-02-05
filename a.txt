@@ -3,4 +3,4 @@ b
 v
 d
 
-create branch dev
+create branch dev also master
